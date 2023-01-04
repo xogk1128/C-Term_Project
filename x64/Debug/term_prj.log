@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\User\Desktop\태하\한성대\2-1학기\프랩\텀 프로젝트\term_prj\main.c(1184,49): warning C4566: 유니버설 문자 이름 '\uFF64'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\User\Desktop\태하\한성대\2-1학기\프랩\텀 프로젝트\term_prj\main.c(2366,16): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\태하\한성대\2-1학기\프랩\텀 프로젝트\term_prj\main.c(931): warning C4715: 'mon_dmg': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  term_prj.vcxproj -> C:\Users\User\Desktop\태하\한성대\2-1학기\프랩\텀 프로젝트\term_prj\x64\Debug\term_prj.exe
